@@ -28,6 +28,15 @@ section#celular{
     transform: translate(-50%, -50%);
     background: url('../imagens/frame-iphone.png') no-repeat center;
 }
-div#celular{
+
+iframe{
+    position: relative;
+    left: 6.9%;
+    overflow-y: hidden;
+    top: 12.3%;
+}
+ul#botões{
+    width: 80px;
+    height: 80px;
     
 }
