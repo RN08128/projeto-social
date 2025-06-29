@@ -10,9 +10,10 @@ body{
 div{
     background-color: rebeccapurple;
     background-image: url('../imagens/tela-facebook.jpg');
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
     position: relative;
-    height: 2650px;
+    height: 2488px;
     width: 254px;
     top: 50%;
     left: 50%;

@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-body{
+*{
     padding: 0;
     margin: 0;
 }
@@ -11,6 +11,7 @@ div{
     background-color: rebeccapurple;
     background-image: url('../imagens/tela-home.jpg');
     background-size: cover;
+    background-repeat: no-repeat;
     position: relative;
     height: 469.9px;
     width: 269px;
